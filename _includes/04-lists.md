@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+### Favorite Superheroes:
+1. Spiderman
+2. Batman
+3. Ironman

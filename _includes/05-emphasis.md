@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* Favorite programming languages are _Python_ and _R_.  In terms of data viz, _Power BI_ is cool too, but _Tableau_ is __lame__!
